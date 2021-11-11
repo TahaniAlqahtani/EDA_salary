@@ -26,6 +26,7 @@ Year: year for every jobs
 Notes: comment for job.
 Agency: city of job.
 Status: type of job (PT, FT).
+
 Tools:
 •	Numpy and Pandas for data manipulation
 •	Matplotlib and Seaborn for plotting
