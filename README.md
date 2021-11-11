@@ -1,2 +1,2 @@
-# ETA_salary
+# EDA_salary
 analysis salary by Yangon Region Government
