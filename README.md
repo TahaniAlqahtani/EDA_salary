@@ -1,4 +1,4 @@
-<img src="yangon.jpg" width="400" height="300" alt=""><br>
+<img src="yangon.jpg" width="100" height="100" alt=""><br>
 # EDA_salary
 ### analysis salary by Yangon Region Government
 
