@@ -9,7 +9,9 @@ Yangon government wanted to develop this city by increasing employment opportuni
 ### Questions/needs: 
 
 •	What was the average (mean) BasePay of all the employees per year? 
+
 •	What was the average (mean) Total Benefits of all the employees per year? 
+
 •	What is the Top-10 jobs in which there are majority of the people?
 
 ### Data Description:
@@ -20,24 +22,39 @@ This data set is name as Salaries contain 13 column and 148654 rows.
 ### Features:
 
 Id: A unique identifier for each employee.
+
 EmployeeName: Name of employee.
+
 JobTitle: Names of Job.
+
 BasePay: Base salary without any additions.
+
 OvertimePay: Amount of overtime pay.
+
 OtherPay: Amount of other pay.
+
 Benefits: Amount of benefits.
+
 TotalPay: Amount of base pay plus overtime pay without benefits.
+
 TotalPayBenefits: Amount of base pay plus overtime pay plus benefits.
-Year: year for every jobs
+
+Year: year for every jobs.
+
 Notes: comment for job.
+
 Agency: city of job.
+
 Status: type of job (PT, FT).
 
 ### Tools:
 
 •	Numpy and Pandas for data manipulation
+
 •	Matplotlib and Seaborn for plotting
+
 •	Tableau for interactive visualizations
+
 ______________________________________________________________________
 By: Tahini Alqahtani.
     Amani Albalawi.
