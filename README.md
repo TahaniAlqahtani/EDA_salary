@@ -18,7 +18,7 @@ Yangon government wanted to develop this city by increasing employment opportuni
 
 ### Data Description:
 
-The original source for this data is <p><a href="https://transparentcalifornia.com/salaries/san-francisco/" title="Go totransparentcalifornia.com/salaries/san-francisco/">here</a></p> , and we have taken from kaggel (SF Salaries | Kaggle).
+The original source for this data is <a href="https://transparentcalifornia.com/salaries/san-francisco/" title="Go totransparentcalifornia.com/salaries/san-francisco/">here</a>, and we have taken from kaggel <a href="https://www.kaggle.com/kaggle/sf-salaries" title="Go kaggle.com/kaggle/sf-salaries">(SF Salaries | Kaggle)</a>.
 This data set is name as Salaries contain 13 column and 148654 rows.
 
 ### Features:
