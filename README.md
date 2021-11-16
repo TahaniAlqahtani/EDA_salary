@@ -1,20 +1,21 @@
 
 # EDA_salary
-<img src="yangon.jpg" width="100" height="100" alt=""><br>
-### analysis salary by Yangon Region Government
+<img src="logo.jpg" width="100" height="100" alt=""><br>
+### analysis salary by Mercedes-Benz San Francisco
 
 ### Domain Background:
- 
-Yangon is the capital of the Region and the largest city of Myanmar (also known as Burma). Yangon served as the capital of Myanmar until 2006, when the military government relocated the administrative functions to the purpose-built capital city of Naypyidaw in north central Myanmar
-Yangon government wanted to develop this city by increasing employment opportunities in it, and decided to review the data of employees in San Francisco in order to know the most important jobs spread, salaries and benefits offered to each employee
+Mercedes-Benz San Francisco has been in the automotive industry for more than 50 years. 
+Mercedes-Benz has been recognized as the benchmark in terms of high quality, technical models, luxury and value. 
+The project aims is to ensure your Mercedes-Benz car ownership experience exceeds your expectations. 
+To develop marketing plans for our next marketing campaign, we decided to analysis a dataset of San Francisco employees' 
+salary base to know income level and target each category with the appropriate promotional campaign. 
 
 ### Questions/needs: 
 
-•	What was the average (mean) BasePay of all the employees per year? 
-
-•	What was the average (mean) Total Benefits of all the employees per year? 
-
-•	What is the Top-10 jobs in which there are majority of the people?
+•       What are the top 10 most common jobs?
+	
+•	What is the proportion of high-income employees, middle-income employees and low-income employees?
+ 
 
 ### Data Description:
 
@@ -51,11 +52,21 @@ Status: type of job (PT, FT).
 
 ### Tools:
 
-•	Numpy and Pandas for data manipulation
+• Technology:
 
-•	Matplotlib and Seaborn for plotting
+	• Python.
 
-•	Tableau for interactive visualizations
+	• Jupyter Note book.
+
+• Libraries:
+
+	• NumPy and Pandas for data manipulation.
+
+	• Matplotlib and Seaborn for plotting.
+
+	• Plotly for interactive visualizations.
+
+
 
 ______________________________________________________________________
 By: Tahini Alqahtani.
